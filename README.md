@@ -1,1 +1,1 @@
-<i class="fa-solid fa-browser"></i>
+<i class="fa-regular fa-browser"></i>
